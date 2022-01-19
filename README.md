@@ -1,1 +1,1 @@
-I built a basic HTML website with the skills learned in The Odin Project's Foundations track. In this project I was able to create a website with links to other pages, reference images, create ordered and ordered lists, and make use of multiple headers.ß
+I built a basic HTML website with the skills learned in The Odin Project's Foundations track. In this project I was able to create a website with links to other pages, reference images, create ordered and ordered lists, and make use of multiple headers.
